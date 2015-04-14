@@ -1,7 +1,7 @@
 /*
   Copyright (c) 2015 雑学追究室ぐり
   Released under the MIT license
-  https://github.com/YukinobuKurata/YouTubeMagicBuyButton/blob/master/MIT-LICENSE.txt
+  https://raw.githubusercontent.com/zgtk-guri/USBHacking/master/LICENSE
 */
 #include "UsbKeyboard.h"
 
